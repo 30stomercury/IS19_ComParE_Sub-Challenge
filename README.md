@@ -1,1 +1,3 @@
-# IS19_ComParE_Sub-Challenge
+# Interspeech 2019 Computational Paralinguistics Challenge (ComParE)
+
+
