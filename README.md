@@ -1,5 +1,8 @@
 # Interspeech 2019 Computational Paralinguistics Challenge (ComParE)
 
+## Model Overview
+![alt text](https://imgur.com/ZCawUVs)
+
 ## ComParE2019_StyrianDialects
 
 ### Directory Structure
