@@ -16,7 +16,7 @@ task_name = os.getcwd().split('/')[-2]  # 'ComParE2019_XXX'
 # Paths
 audio_folder    = '../wav_aug_vol/'
 labels_file     = '../lab/labels.csv'
-features_folder = '../features/'
+#features_folder = '../features/'
 features_folder = '../features_aug_vol/'
 
 # Define partition names (according to audio files)
