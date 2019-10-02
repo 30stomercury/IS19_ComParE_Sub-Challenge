@@ -21,4 +21,4 @@
 
 ## ComParE2019_BabySounds
 Please refer to:
-https://github.com/30stomercury/IS19_ComParE_Sub-Challenge
+https://github.com/Carl0520/challenge
